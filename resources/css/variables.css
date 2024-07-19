@@ -1,0 +1,11 @@
+html {
+    --color-primary : #00ffc6;
+    --color-secondary : #ff00c4;
+    --color-base : #f3f4f4;
+    --color-background : #1d1f24;
+    --alert : #922a2a;
+    --alert-lighter : #c54343;
+    --success : #2b5b2b;
+    --success-lighter : #609b60;
+    --success-darker : #172a0a;
+}
